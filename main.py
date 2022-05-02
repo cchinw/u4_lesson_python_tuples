@@ -17,4 +17,3 @@ def get_values(tup):
 def get_max(tup):
     # return the largest number in the provided tuple
     return
-
